@@ -1,0 +1,11 @@
+build:
+  version: "qa"
+
+cards:
+  message: "qa API"
+  contactDetails:
+    name: "name"
+    email: "mail@email.com"
+  onCallSupport:
+    - (084) 0123456789
+    - (084) 0123456780
